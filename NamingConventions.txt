@@ -1,0 +1,16 @@
+Objects
+
+$Object$_CHAR
+$Object$_ENVIRO
+$Object$_PROP
+
+
+Textures
+
+$Object$_DIFF
+$Object$_ROUGH
+$Object$_METAL
+$Object$_NORM
+
+
+For textures, height and occlusion maps aren't needed
